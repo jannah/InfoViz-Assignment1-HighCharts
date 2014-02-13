@@ -1,0 +1,97 @@
+Department,Month #,Month,Actual,Budget
+Executive,1,Jan,246,250
+Executive,2,Feb,253,255
+Executive,3,Mar,375,260
+Executive,4,Apr,376,265
+Executive,5,May,384,270
+Executive,6,Jun,388,275
+Executive,7,Jul,394,280
+Executive,8,Aug,394,290
+Executive,9,Sep,394,300
+Executive,10,Oct,396,305
+Executive,11,Nov,201,310
+Executive,12,Dec,400,400
+Facilities,1,Jan,193,190
+Facilities,2,Feb,195,190
+Facilities,3,Mar,186,180
+Facilities,4,Apr,174,170
+Facilities,5,May,166,170
+Facilities,6,Jun,168,180
+Facilities,7,Jul,200,190
+Facilities,8,Aug,210,200
+Facilities,9,Sep,208,200
+Facilities,10,Oct,183,190
+Facilities,11,Nov,87,190
+Facilities,12,Dec,200,200
+Finance,1,Jan,96,100
+Finance,2,Feb,95,100
+Finance,3,Mar,95,100
+Finance,4,Apr,98,110
+Finance,5,May,101,110
+Finance,6,Jun,109,110
+Finance,7,Jul,110,120
+Finance,8,Aug,112,120
+Finance,9,Sep,112,120
+Finance,10,Oct,113,120
+Finance,11,Nov,66,120
+Finance,12,Dec,120,120
+Human Resources,1,Jan,51,50
+Human Resources,2,Feb,64,50
+Human Resources,3,Mar,58,50
+Human Resources,4,Apr,53,51
+Human Resources,5,May,50,51
+Human Resources,6,Jun,50,51
+Human Resources,7,Jul,48,52
+Human Resources,8,Aug,47,52
+Human Resources,9,Sep,49,52
+Human Resources,10,Oct,50,53
+Human Resources,11,Nov,25,53
+Human Resources,12,Dec,53,53
+Information Technology,1,Jan,463,450
+Information Technology,2,Feb,472,450
+Information Technology,3,Mar,483,470
+Information Technology,4,Apr,488,475
+Information Technology,5,May,490,475
+Information Technology,6,Jun,534,500
+Information Technology,7,Jul,557,500
+Information Technology,8,Aug,563,500
+Information Technology,9,Sep,552,500
+Information Technology,10,Oct,542,500
+Information Technology,11,Nov,263,500
+Information Technology,12,Dec,500,500
+Marketing,1,Jan,99,100
+Marketing,2,Feb,97,100
+Marketing,3,Mar,95,100
+Marketing,4,Apr,97,100
+Marketing,5,May,104,100
+Marketing,6,Jun,152,100
+Marketing,7,Jul,89,100
+Marketing,8,Aug,90,100
+Marketing,9,Sep,86,100
+Marketing,10,Oct,93,100
+Marketing,11,Nov,73,150
+Marketing,12,Dec,150,150
+Sales,1,Jan,524,510
+Sales,2,Feb,458,475
+Sales,3,Mar,467,475
+Sales,4,Apr,503,505
+Sales,5,May,489,480
+Sales,6,Jun,480,480
+Sales,7,Jul,512,510
+Sales,8,Aug,479,485
+Sales,9,Sep,484,485
+Sales,10,Oct,514,515
+Sales,11,Nov,247,490
+Sales,12,Dec,490,490
+Technical Support,1,Jan,29,35
+Technical Support,2,Feb,28,35
+Technical Support,3,Mar,28,35
+Technical Support,4,Apr,27,36
+Technical Support,5,May,26,36
+Technical Support,6,Jun,26,36
+Technical Support,7,Jul,25,37
+Technical Support,8,Aug,25,37
+Technical Support,9,Sep,26,37
+Technical Support,10,Oct,25,38
+Technical Support,11,Nov,13,38
+Technical Support,12,Dec,38,38

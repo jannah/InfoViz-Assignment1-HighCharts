@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Annual Expenses</title>
+    <link rel="stylesheet" href="_css/main.css">
+    <script src="_js/jquery-1.11.0.min.js"></script>
+    <script src="_js/highcharts.js"></script>
+       <script src="_js/script.js"></script>
+</head>
+<body>
+    <div id="container">
+        <div id="controls"></div>
+        <div id="chart1"></div>
+        <div id="chart2"></div>
+    </div>
+
+    <script>
+
+        // function to return color (gold/silver/bronze)
+        function colors(i) {
+            switch (i) {
+                case 0:
+                    return "#CFB53B";
+                    break;
+                case 1:
+                    return "#DDDDDD";
+                    break;
+                case 2:
+                    return "#8C7853";
+                    break;
+            }
+            ;
+        }
+
+
+/*
+        // set up the initial options
+        var options = {
+            chart: {
+                renderTo: "container",
+                type: "bar",
+                style: {
+                    fontFamily: "Helvetica,Arial,sans-serif"
+                }
+            },
+            legend: {
+                borderRadius: 0,
+                itemStyle: {
+                    color: "#000000",
+                    fontFamily: "Helvetica,Arial,sans-serif"
+                }
+            },
+            plotOptions: {
+                series: {
+                    stacking: "normal"
+                }
+            },
+            series: [],
+            title: {
+                text: "US 2012 Olympics Medal Count",
+                style: {
+                    color: "#000000",
+                    fontFamily: "Helvetica,Arial,sans-serif",
+                    fontSize: "20px",
+                    fontWeight: "bold"
+                }
+            },
+            tooltip: {
+                // hints: borderRadius, borderWidth, shadow  
+                borderRadius: "5px",
+                borderWidth: "2px",
+                shadow: true,
+                style: {
+                    color: "#444444",
+                    fontFamily: "Helvetica,Arial,sans-serif",
+                    fontSize: "14px",
+                    fontWeight: "bold"
+                    // hints: color, fontFamily, fontSize, padding
+                }
+            },
+            xAxis: {
+                categories: [],
+                labels: {
+                    style: {
+                        color: "#333333",
+                        fontFamily: "Helvetica,Arial,sans-serif"
+                    }
+                },
+            },
+            yAxis: {
+                gridLineColor: "#cccccc",
+                gridLineDashStyle: "shortDot",
+                // hints: gridLineColor, gridLineDashStyle
+                labels: {
+                    style: {
+                        color: "#333333",
+                        fontFamily: "Helvetica,Arial,sans-serif"
+                    }
+                },
+                min: 0,
+                stackLabels: {
+                    enabled: true,
+                    style: {
+                        fontFamily: "Helvetica,Arial,sans-serif",
+                        fontWeight: "bold",
+                        color: "#333333"
+                    }
+                },
+                title: {
+                    style: {
+                        color: "#333333",
+                        fontFamily: "Helvetica,Arial,sans-serif"
+                    },
+                    text: "# of Medals"
+                }
+            }
+        };
+
+
+
+        // ajax call to data from the csv file
+
+ $.get("_data/data.csv", function(data) {
+            // split the csv by line ("\n")
+            var lines = data.split('\n');
+       
+
+        });
+*/
+    </script>
+
+</body>
+</html>
